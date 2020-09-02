@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio</title>
+</head>
+<body>
+<body bgcolor="Grey"></body>
+<h1>Audio File</h1>
+<h2>Sourced from web</h2>
+<audio src="https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3"
+controls
+muted
+loop
+autoplay
+preload="metadata"></audio>
+<h3>Sourced by downloading</h3>   
+<audio src="avengers.mp3"
+controls
+muted
+autoplay
+loop
+preload="metadata"></audio>
+</p>
+Avengers Title song by Alan Silvestri
+</body>
+</html>
